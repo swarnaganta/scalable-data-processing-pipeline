@@ -1,0 +1,11 @@
+CustomerID,Region,ClaimAmount,PolicyType
+1,North,6000,Health
+2,South,4500,Auto
+3,North,12000,Home
+4,East,8000,Health
+5,West,3000,Auto
+6,East,15000,Home
+7,South,7500,Health
+8,North,4000,Auto
+9,West,11000,Home
+10,East,9500,Auto
